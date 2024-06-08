@@ -33,7 +33,7 @@ pythonコマンドを実行する際に軽量化するPDFのパスと出力す�
 * ebook: 150
 * printer: 300
 * prepress: 300
-* default: 30
+* default: 300
 
 ```shell
   python comp.py /path/to/your/input.pdf ebook
