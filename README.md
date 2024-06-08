@@ -36,12 +36,14 @@ pythonコマンドを実行する際に軽量化するPDFのパスと出力す�
 * default: 30
 
 ```shell
-  python script.py /path/to/your/input.pdf ebook
+  python comp.py /path/to/your/input.pdf ebook
 ```
 
 ## Results / 出力結果
 
 The optimized file will be output to the outputs directory.
+
+軽量化したファイルがoutputsに出力されます。
 
 ## Author / 作成者
 
